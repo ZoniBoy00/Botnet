@@ -2,4 +2,4 @@
 
 DRAINER Botnet 
 
-prel DRAINER.c
+perl DRAINER.c
